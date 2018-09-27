@@ -1,1 +1,2 @@
 # exercise
+my first exercise
